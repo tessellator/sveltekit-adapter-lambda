@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "module": "es2022",
+    "target": "es2017",
+    "baseUrl": "."
+  },
+  "include": ["index.js", "src/**/*.js", "ambient.d.ts"]
+}
