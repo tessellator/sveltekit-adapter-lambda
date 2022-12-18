@@ -1,7 +1,7 @@
 {
   "name": "@tessellator/sveltekit-adapter-lambda",
   "description": "Adapter for SvelteKit applications that generates a handler for use on AWS Lambda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/tessellator/sveltekit-adapter-lambda.git"
